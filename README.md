@@ -8,3 +8,6 @@ Also called Non Functionnal Requirements(NFRs) they specify how the system needs
 Capturing NFRs is the dev's job but it's better done in cooperation with the client 
 ## Functionnal requirements
 They specify how the system should work
+
+# Second thing 
+Architecture design review, in this case it was for a healthcare system
