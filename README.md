@@ -9,5 +9,8 @@ Capturing NFRs is the dev's job but it's better done in cooperation with the cli
 ## Functionnal requirements
 They specify how the system should work
 
-# Second thing 
+# Second  
 Architecture design review, in this case it was for a healthcare system
+
+# Third 
+Paas Iaas, difference between them, why and when to use them, how to choose the good one
