@@ -28,3 +28,7 @@ Unit testing is the low level testing where you isolate sections of the code(cal
 Most of the time these units are functions(refeered to as white box testing)
 ### UAT(User Acceptance Testing)
 Called black box testing, performed by the end user or client to make sure that they are satisfied with the way the product works in a "real world environement"
+
+## Security
+### SMA (Security Maturity Assessment)
+Discovered the NIST Cybersecurity Framework, it's functions and maturity tiers
