@@ -1,6 +1,7 @@
 # accenture internship
  Accenture internship project files
 
+# DAY ONE
 # First thing I learnt
 Technical requirements and Functionnal requirements
 ## Technical requirements
@@ -14,3 +15,7 @@ Architecture design review, in this case it was for a healthcare system
 
 # Third 
 Paas Iaas, difference between them, why and when to use them, how to choose the good one
+
+# DAY TWO
+## Javascript code review
+Foreach and For loops: Foreach expects a synchronous function but For loop will wait on the result of the execution
