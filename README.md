@@ -19,3 +19,5 @@ Paas Iaas, difference between them, why and when to use them, how to choose the 
 # DAY TWO
 ## Javascript code review
 Foreach and For loops: Foreach expects a synchronous function but For loop will wait on the result of the execution
+## Python and algorythm 
+Binary search algorythm
