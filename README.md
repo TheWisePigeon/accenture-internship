@@ -25,4 +25,6 @@ Binary search algorythm
 ## Testing
 ### Unit testing
 Unit testing is the low level testing where you isolate sections of the code(called units) and verify they work as intended
-Most of the time these units are functions
+Most of the time these units are functions(refeered to as white box testing)
+### UAT(User Acceptance Testing)
+Called black box testing, performed by the end user or client to make sure that they are satisfied with the way the product works in a "real world environement"
