@@ -32,3 +32,6 @@ Called black box testing, performed by the end user or client to make sure that 
 ## Security
 ### SMA (Security Maturity Assessment)
 Discovered the NIST Cybersecurity Framework, it's functions and maturity tiers
+
+### IAM (Identity Access Management)
+How to manage Access management 
