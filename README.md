@@ -21,3 +21,8 @@ Paas Iaas, difference between them, why and when to use them, how to choose the 
 Foreach and For loops: Foreach expects a synchronous function but For loop will wait on the result of the execution
 ## Python and algorythm 
 Binary search algorythm
+
+## Testing
+### Unit testing
+Unit testing is the low level testing where you isolate sections of the code(called units) and verify they work as intended
+Most of the time these units are functions
