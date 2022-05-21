@@ -36,6 +36,3 @@ Discovered the NIST Cybersecurity Framework, it's functions and maturity tiers
 ### IAM (Identity Access Management)
 How to manage Access management 
 
-## AI and Machine learning
-### Data privacy in machine learning models training
-https://gdpr.eu/
